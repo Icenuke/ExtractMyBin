@@ -1,5 +1,5 @@
 # Exctract My Bin 
-######(EMB)
+(EMB)
 
 Script to record the OPCodes from ASM binary <br>
 Add the Shellcode at C file and/or text file<br>
